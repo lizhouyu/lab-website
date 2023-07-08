@@ -30,8 +30,8 @@ jobs:
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.0"
-          # ruby-version: "3.3.22"
+          # ruby-version: "3.0"
+          ruby-version: "3.3"
           bundler-cache: true
 
       - name: Get Pages url
