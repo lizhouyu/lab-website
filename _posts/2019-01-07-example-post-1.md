@@ -1,6 +1,7 @@
 ---
 title: Example post 1
 author: sarah-johnson
+time: 2019-01
 tags:
   - biology
   - medicine

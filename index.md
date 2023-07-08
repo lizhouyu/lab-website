@@ -1,11 +1,26 @@
 ---
 ---
 
-# lizhouyu's Website
+# Lab name
 
 An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
+
+# News
+<ul>
+   {% for news_item in site.posts limit:5 %}
+       <li>[{{news_item.time}}] {{ news_item.title }}</li>
+   {% endfor %}
+</ul>
+{%
+  include button.html
+  link="news"
+  text="More news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
 ## Highlights
 

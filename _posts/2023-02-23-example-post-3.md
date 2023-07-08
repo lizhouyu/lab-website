@@ -1,6 +1,7 @@
 ---
 title: Example post 3
 author: john-doe
+time: 2023-02
 tags: biology, medicine
 ---
 
