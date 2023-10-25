@@ -1,26 +1,26 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Microservice
+  subtitle: Application-Network Co-Design for Edge Resource Provisioning
   group: featured
-  image: images/photo.jpg
+  image: images/project_wolfpack.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Edge Computing
+  subtitle: Robust SLAs for Mobile Edge Computing Applications
   group: featured
-  image: images/photo.jpg
+  image: images/project_robust_sla.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Decentralized Machine Learning
+  subtitle: Privacy-Preserving and Trustworthy Decentralized Machine Learning
+  image: images/project_fl.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -28,18 +28,18 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Quantum Networks
+  subtitle: High-Performance Quantum Networking for Next-Generation Quantum Applications
+  image: images/project_qunet.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Blockchain
+  subtitle: Economics and Privacy of Blockchain Payment Channel Networks
+  image: images/project_pcn.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
