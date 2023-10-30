@@ -10,9 +10,10 @@ def main(entry):
     """
 
     # get api key (serp api key to access google scholar)
-    api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY", "")
+    api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY", "1f3cf9d68a2fbd980c7cc615a2f39a38a45713a3d0106f42f0ba6d058f60ea82")
     if not api_key:
         raise Exception('No "GOOGLE_SCHOLAR_API_KEY" env var')
+    
 
     # serp api properties
     params = {
@@ -23,6 +24,9 @@ def main(entry):
 
     # get id from entry
     _id = get_safe(entry, "gsid", "")
+    # get start and end year from entry in the next level of the parsed _id
+    start_year = get_safe(entry, "start_year", "")
+    end_year = get_safe(entry, "end_year", "")
     if not _id:
         raise Exception('No "gsid" key')
 
@@ -40,6 +44,9 @@ def main(entry):
 
     # go through response and format sources
     for work in response:
+        print("response details: ")
+        print(work)
+        print("=================end of response details=====================")
         # create source
         year = get_safe(work, "year", "")
         source = {

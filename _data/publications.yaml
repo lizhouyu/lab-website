@@ -1,0 +1,93 @@
+- id: 2023004
+  type: paper
+  title: 'Dynamic Queuing Analysis and Buffer Management for Entanglement Swapping Buffers with Noise'
+  authors:
+  - Zhouyu Li
+  - Huayue Gu
+  - Xiaojian Wang
+  - Ruozhou Yu
+  publisher: ACM 1st Workshop on Quantum Networks and Distributed Quantum Computing (QuNet)
+  date: '2023-09-10'
+  link: https://dl.acm.org/doi/abs/10.1145/3610251.3610551
+  tags:
+  - Quantum Network
+
+- id: 2023003
+  type: paper
+  title: 'ESDI: Entanglement Scheduling and Distribution in the Quantum Internet'
+  authors:
+  - Huayue Gu
+  - Ruozhou Yu
+  - Zhouyu Li
+  - Xiaojian Wang
+  - Fangtong Zhou
+  publisher:  IEEE International Conference on Computer Communications and Networks (ICCCN)
+  date: '2023-07-24'
+  link: https://ieeexplore.ieee.org/document/10230193
+  tags:
+  - Quantum Network
+
+- id: 2023002
+  type: paper
+  title: 'INSPIRE: Instance-level Privacy-preserving Transformation for Vehicular Camera Videos'
+  authors:
+  - Zhouyu Li
+  - Ruozhou Yu
+  - Anupam Das
+  - Shaohu Zhang
+  - Huayue Gu
+  - Xiaojian Wang
+  - Fangtong Zhou
+  - Aafaq Sabir
+  - Dilawer Ahmed
+  - Ahsan Zafar
+  publisher:  IEEE International Conference on Computer Communications and Networks (ICCCN)
+  date: '2023-07-24'
+  link: https://ieeexplore.ieee.org/abstract/document/10230162
+  tags:
+  - Privacy
+
+- id: 2023001
+  type: paper
+  title: 'EA-Market: Empowering Real-Time Big Data Applications with Short-Term Edge SLA Leases'
+  authors:
+  - Ruozhou Yu
+  - Huayue Gu
+  - Xiaojian Wang
+  - Fangtong Zhou
+  - Guoliang Xue
+  - Dejun Yang
+  publisher:  IEEE International Conference on Computer Communications and Networks (ICCCN)
+  date: '2023-07-24'
+  link: https://ieeexplore.ieee.org/document/10230160
+  tags:
+  - Edge Computing
+
+- id: 2022002
+  type: paper
+  title: 'FedAegis: Edge-Based Byzantine-Robust Federated Learning for Heterogeneous Data'
+  authors:
+  - Fangtong Zhou
+  - Ruozhou Yu
+  - Zhouyu Li
+  - Huayue Gu
+  - Xiaojian Wang
+  publisher: IEEE Global Communications Conference (GLOBECOM)
+  date: '2022-12-05'
+  link: https://ruozhouy.github.io/docs/gc-22-paper.pdf
+  tags:
+  - Federated Learning
+  - Edge Computing
+
+- id: 2022001
+  type: paper
+  title: 'Why Riding the Lightning? Equilibrium Analysis for Payment Hub Pricing'
+  authors:
+  - Xiaojian Wang
+  - Huayue Gu
+  - Zhouyu Li
+  - Fangtong Zhou
+  - Ruozhou Yu
+  link: https://ruozhouy.github.io/docs/icc-22-paper.pdf
+  publisher: IEEE International Conference on Communications (ICC)
+  date: '2022-05-16'

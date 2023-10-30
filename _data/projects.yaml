@@ -3,45 +3,43 @@
   group: featured
   image: images/project_wolfpack.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
-    - resource
+    - Microservice
 
 - title: Edge Computing
   subtitle: Robust SLAs for Mobile Edge Computing Applications
   group: featured
   image: images/project_robust_sla.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
-    - resource
+    - Edge Computing
 
 - title: Decentralized Machine Learning
   subtitle: Privacy-Preserving and Trustworthy Decentralized Machine Learning
+  group: featured
   image: images/project_fl.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
-    - resource
-    - publication
+    - Federated Learning
 
 - title: Quantum Networks
   subtitle: High-Performance Quantum Networking for Next-Generation Quantum Applications
+  group: featured
   image: images/project_qunet.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
-    - software
+    - Quantum Network
 
 - title: Blockchain
   subtitle: Economics and Privacy of Blockchain Payment Channel Networks
+  group: featured
   image: images/project_pcn.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
-    - software
+    - Blockchain
+    - Payment Channel Network
