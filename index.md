@@ -1,7 +1,7 @@
 ---
 ---
 
-# Lab name
+# Yu Lab
 
 An engaging 1-3 sentence description of your lab.
 
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects cover multiple areas about morden and emerging networks including quantum networks, Internet-of-Things, edge computing, network security, machine learning, and the blockchain.
 
 {%
   include button.html
