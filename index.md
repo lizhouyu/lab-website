@@ -3,7 +3,8 @@
 
 # Yu Lab
 
-An engaging 1-3 sentence description of your lab.
+
+Welcome to Yu lab at NC State University, where innovation knows no bounds! We are a dynamic team delving into the realms of optimization, application, and security of morden network systems. Nestled at the forefront of technology, our expertise extends seamlessly into the realms of Edge Computing, Distributed Graph Learning, Wireless Network and Security, Quantum Network and Computing, and the fascinating world of AI Computing Systems and Applications such as Autonomous Driving. 
 
 {% include section.html %}
 
@@ -26,7 +27,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We leverage traditional and learning-based optimization methods to crafting high-performance, robust, and user-friendly systems. From the intricacies of smart homes to the vast landscapes of intelligent cities, and from trending Internet of Things to emerging Quantum and Satellite Networks, our focus extends beyond the conventional, exploring the uncharted territories that lie between and beyond.
 
 {%
   include button.html
@@ -41,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/centennial_building.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Our projects cover multiple areas about morden and emerging networks including quantum networks, Internet-of-Things, edge computing, network security, machine learning, and the blockchain.
+Our projects cover multiple areas including Internet-of-Things, Edge Computing, Microservices, Distributed Machine Learning, Quantum Networks, and Blockchain.
 
 {%
   include button.html
@@ -64,7 +65,7 @@ Our projects cover multiple areas about morden and emerging networks including q
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ncsu_banner.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,11 +75,11 @@ Our projects cover multiple areas about morden and emerging networks including q
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is a melting pot of intellect, with members ranging from PhD and Master's students to enthusiastic undergraduates and bright high school students.
 
 {%
   include button.html
-  link="team"
+  link="people"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -89,7 +90,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
