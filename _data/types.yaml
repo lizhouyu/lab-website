@@ -18,9 +18,21 @@ phd:
   icon: fa-solid fa-user-graduate
   description: PhD Student
 
+ms:
+  icon: fa-solid fa-user-graduate
+  description: Master Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+highschool:
+  icon: fa-solid fa-user-graduate
+  description: High School Student
+
+alumni:
+  icon: fa-solid fa-user-graduate
+  description: Alumni
 
 programmer:
   icon: fa-solid fa-code

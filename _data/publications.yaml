@@ -1,3 +1,20 @@
+- id: 2023005
+  type: paper
+  title: 'Fence: Fee-based Online Balance-aware Routing in Payment Channel Networks'
+  authors:
+  - Xiaojian Wang
+  - Ruozhou Yu
+  - Dejun Yang
+  - Guoliang Xue
+  - Huayue Gu
+  - Zhouyu Li
+  - Fangtong Zhou
+  publisher: IEEE/ACM Transactions on Networking (ToN)
+  date: '2023-10'
+  tags:
+  - Payment Channel Network
+  - Blockchain
+
 - id: 2023004
   type: paper
   title: 'Dynamic Queuing Analysis and Buffer Management for Entanglement Swapping Buffers with Noise'

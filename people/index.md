@@ -7,13 +7,27 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}People
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+## Director
 
 {% include list.html data="members" component="portrait" filters="role: ap" %}
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+
+## Ph.D. Students
+
+{% include list.html data="members" component="portrait" filters="role: phd, group: active" %}
+
+## Master Students
+
+{% include list.html data="members" component="portrait" filters="role: ms, group: active" %}
+
+## Undergraduate Students
+
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: active" %}
+
+## High School Students
+
+{% include list.html data="members" component="portrait" filters="role: highschool, group: active" %}
+
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -28,13 +42,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-
+{% include list.html data="members" component="portrait" filters="group: inactive" %}
 
 {% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 

@@ -1,7 +1,7 @@
 ---
-name: Xiangjun Mi
-image:
-role: phd
+name: Avi Patel
+image: 
+role: highschool
 group: active
 links:
   home-page: 

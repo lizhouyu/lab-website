@@ -1,7 +1,7 @@
 ---
-name: Xiangjun Mi
-image:
-role: phd
+name: Rye Fry
+image: 
+role: undergrad
 group: active
 links:
   home-page: 

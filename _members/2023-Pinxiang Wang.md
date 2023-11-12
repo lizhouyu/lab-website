@@ -1,7 +1,7 @@
 ---
-name: Xiangjun Mi
-image:
-role: phd
+name: Pinxiang Wang
+image: 
+role: ms
 group: active
 links:
   home-page: 
