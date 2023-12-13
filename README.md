@@ -1,7 +1,7 @@
 
 # lizhouyu's Website
 
-Visit **[ncsuyulab.com](http://ncsuyulab.com)** 🚀
+Visit **[ncsuyulab.com](https://ncsuyulab.com)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
