@@ -1,6 +1,6 @@
 ---
 name: Xiangjun Mi
-image:
+image: images/bio-xiangjun-mi.png
 role: phd
 group: active
 links:

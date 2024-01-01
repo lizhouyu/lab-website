@@ -2,7 +2,7 @@
 name: Xiaochun Liang
 image: 
 role: undergrad
-group: inactive
+group: alumni
 links:
-  home-page: 
+  linkedin: xiaochun-liang-662501205
 ---

@@ -4,5 +4,5 @@ image:
 role: highschool
 group: active
 links:
-  home-page: 
+  linkedin: achyuta-anandakrishnan
 ---

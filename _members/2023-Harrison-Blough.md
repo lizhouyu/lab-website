@@ -1,8 +1,8 @@
 ---
 name: Harrison Blough
-image: 
+image:
 role: undergrad
-group: active
+group: alumni
 links:
-  home-page: 
+  linkedin: harrison-blough
 ---

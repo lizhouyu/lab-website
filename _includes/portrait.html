@@ -14,7 +14,7 @@
     aria-label="{{ member.name | default: "member link" }}"
   >
     <img
-      src="{{ member.image | relative_url }}"
+      src="{{ member.image | relative_url | default: '/images/portrait-placeholder.png' }}"
       class="portrait-image"
       alt="member portrait"
       loading="lazy"

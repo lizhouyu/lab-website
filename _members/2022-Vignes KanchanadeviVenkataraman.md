@@ -2,7 +2,7 @@
 name: Vignes KanchanadeviVenkataraman
 image: 
 role: ms
-group: active
+group: alumni
 links:
-  home-page: 
+  linkedin: obblivignes-kanchanadevivenkataraman-b870191b6 
 ---

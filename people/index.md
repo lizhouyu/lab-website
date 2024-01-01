@@ -21,7 +21,7 @@ nav:
 
 ## Undergraduate Students
 
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: active" %}
+{% include list.html data="members" component="portrait" filters="role:undergrad, group: active" %}
 
 ## High School Students
 
@@ -42,7 +42,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-{% include list.html data="members" component="portrait" filters="group: inactive" %}
+{% include list.html data="members" component="portrait" filters="group: alumni" %}
 
 {% capture content %}
 

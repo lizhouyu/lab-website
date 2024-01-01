@@ -4,5 +4,5 @@ image:
 role: undergrad
 group: active
 links:
-  home-page: 
+  linkedin: osama-albahrani
 ---
